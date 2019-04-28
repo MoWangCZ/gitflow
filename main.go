@@ -6,4 +6,6 @@ func main() {
 	fmt.Println("Init git flow...")
 	fmt.Println("Add git flow...")
 	fmt.Println("Add print")
+	fmt.Println("Start v1.0.1")
+	fmt.Println("Fix bug in release v1.0.1")
 }
