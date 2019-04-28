@@ -12,4 +12,5 @@ func main() {
 	fmt.Println("fix bug in hub")
 	fmt.Println("Add feature region")
 	fmt.Println("Add hub again")
+	fmt.Println("Add hub again and again")
 }
