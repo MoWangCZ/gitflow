@@ -8,5 +8,11 @@ func main() {
 	fmt.Println("Add print")
 	fmt.Println("Start v1.0.1")
 	fmt.Println("Fix bug in release v1.0.1")
+	fmt.Println("Add feature hub")
+	fmt.Println("fix bug in hub")
+	fmt.Println("Add feature region")
+	fmt.Println("Add hub again")
+	fmt.Println("Add hub again and again")
 	fmt.Println("Fix bug in 1")
+	fmt.Println("Create a new release v1.1.0")
 }
