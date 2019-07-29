@@ -14,4 +14,5 @@ func main() {
 	fmt.Println("Add hub again")
 	fmt.Println("Add hub again and again")
 	fmt.Println("Fix bug in 1")
+	fmt.Println("Create a new release v1.1.0")
 }
